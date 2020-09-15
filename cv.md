@@ -1,7 +1,7 @@
 
 Ivan Perec
 ==========  
-Mail: **mr.perec.96@gmail.com**  Number for mesengers: **+375 29 764 98 62**
+*Mail*: **mr.perec.96@gmail.com**  *Number for mesengers*: **+375 29 764 98 62**
   
 Purpose summary: Get a job as a frontend developer.
 
