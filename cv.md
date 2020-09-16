@@ -5,6 +5,8 @@ Ivan Perec
   
 Purpose summary: Get a job as a frontend developer.
 
+ I have a musical and economic education(agrarian University). Also has experience as a sales representative (0.5 years) and visa agent (1 year). 
+ The necessary skills are attached.
 
    
  Сode example:
